@@ -9,15 +9,15 @@
 - **Project Directory:** roadsidedamparestaurantsmain
 - **Subdomain:** https://roadsidedamparestaurantsmain.vikaph.com
 - **GitHub Repo:** [to be created]
-- **Vercel URL:** [to be configured]
+- **Vercel URL:** https://roadsidedamparestaurantsmain.vercel.app
 
 ## Lead Information
 - **Lead ID:** 3b53682a-4800-41b6-8696-cb6289dfef52
 
 ## Deployment Status
-- **Git Repository:** pending
-- **Vercel Deployment:** pending
-- **QA Status:** pending
+- **Git Repository:** created
+- **Vercel Deployment:** configured (subdomain pending DNS propagation)
+- **QA Status:** in progress
 
 ## Notes
 - Google Maps page is JavaScript-rendered, could not extract business details
